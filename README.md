@@ -10,3 +10,7 @@
 
 Nivel 7 / 15
 <input pattern="[0-9]+[CA]">
+
+# nivel 8
+
+<input pattern="[0-9]+[AWhc]">
