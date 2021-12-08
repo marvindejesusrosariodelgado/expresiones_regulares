@@ -5,3 +5,8 @@
 
 # Nivel 6
 <input pattern="[0-9]+[A]">
+
+# Nivel 7
+
+Nivel 7 / 15
+<input pattern="[0-9]+[CA]">
